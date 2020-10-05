@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\examplesOOP.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\Eventos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\examplesOOP.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\Eventos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\examplesOOP.csproj",
-        "projectName": "examplesOOP",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\examplesOOP.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\Eventos.csproj",
+        "projectName": "Eventos",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\Eventos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

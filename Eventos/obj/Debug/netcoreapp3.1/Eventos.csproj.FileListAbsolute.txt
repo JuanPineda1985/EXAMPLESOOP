@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.csproj.CoreCompileInputs.cache

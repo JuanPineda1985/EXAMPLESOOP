@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Example2\\Example2.csproj",
-      "projectName": "Example2",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Example2\\Example2.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\Eventos.csproj",
+      "projectName": "Eventos",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\Eventos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Example2\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\escritorio\\examplesOOP\\Eventos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

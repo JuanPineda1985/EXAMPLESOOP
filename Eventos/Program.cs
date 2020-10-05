@@ -8,13 +8,20 @@ namespace Eventos
         {
             Console.WriteLine("Eventos");
             Console.WriteLine("Exposicion: ");
-            string Exposicion = Console.ReadLine();
+            string Expo = Console.ReadLine();
             Console.WriteLine("Conferencia: ");
-            string Conferencia = Console.ReadLine();
+            string Confe = Console.ReadLine();
             Console.WriteLine("aforo: ");
-            int aforo = int.Parse(Console.ReadLine());
+            int Aforo = int.Parse(Console.ReadLine());
 
-            Cultural FiestaLibro = new Cultural()
+            var FiestaLibro = new Cultural()
+            {
+                Exposicion = Expo,
+                Conferencia = Confe,
+                Aforo = Aforo
+            };
+
+            Console.WriteLine($"{FiestaLibro.Exposicion} {FiestaLibro.Aforo}");
         }    
         
     }

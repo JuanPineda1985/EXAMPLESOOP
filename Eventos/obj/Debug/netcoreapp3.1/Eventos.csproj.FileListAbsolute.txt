@@ -2,3 +2,12 @@ C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\
 C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfoInputs.cache
 C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfo.cs
 C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\bin\Debug\netcoreapp3.1\Eventos.exe
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\bin\Debug\netcoreapp3.1\Eventos.deps.json
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\bin\Debug\netcoreapp3.1\Eventos.runtimeconfig.json
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\bin\Debug\netcoreapp3.1\Eventos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\bin\Debug\netcoreapp3.1\Eventos.dll
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\bin\Debug\netcoreapp3.1\Eventos.pdb
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.dll
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.pdb
+C:\Users\Usuario\Desktop\escritorio\examplesOOP\Eventos\obj\Debug\netcoreapp3.1\Eventos.genruntimeconfig.cache

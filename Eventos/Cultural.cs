@@ -7,11 +7,11 @@ namespace Eventos
        //Propiedades
         public string Exposicion { get; set; }
         public string Conferencia { get; set; }
-        public int aforo { get; set; }
+        public int Aforo { get; set; }
        //Funciones
         public void concierto()
         {
-            console.WriteLine("Inscripiones Abiertas");
+            Console.WriteLine("Inscripiones Abiertas");
         }
     }
 }
